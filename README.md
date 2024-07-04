@@ -13,3 +13,4 @@ console.log(product1); // *
 console.log(product2); // **
 console.log(product1 === product2); // ***
 ```
+-ปฏิพงษศกร บุญมา(เจมส์)
